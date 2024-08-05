@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    background-color: rgb(216, 216, 223);
+    background-image:url('evening-sky-and-clouds-free-photo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;;
+    background-attachment: fixed;
+    padding: 0
+    
+}
+
+.mybutton {
+    border-bottom-right-radius: 10%;background-color: #e6d712;color: white;border-color: #e6d712;;width: 200px;; height: 50px;font-size: large;position: absolute;right:20px;border:#beb30e;
+}
+
+.mybutton:hover {
+    background-color:#beb30e ;
+}
+.designbutton{
+    border-bottom-left-radius: 10%;background-color: #e6d712;color: white;border-color: #e6d712;;width: 200px;; height: 50px;font-size: large;position: absolute;right:219px;top: 100px;border: #beb30e;
+}
+.designbutton:hover{
+    background-color:#beb30e ;  
+}
+.defaultsinglebutton{
+    border-bottom-left-radius: 10%;border-bottom-right-radius: 10%;background-color: #e6d712;color: white;border-color: #e6d712;;width: 200px;; height: 50px;font-size: large;position: absolute;right:20px;border:#beb30e; 
+}
+.defaultsinglebutton:hover{
+    background-color:#beb30e ;  
+} 
